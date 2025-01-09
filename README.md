@@ -1,3 +1,3 @@
 # Veda
 Veda programming language
-## coming soon
+## currently being written its first implementation in c++
